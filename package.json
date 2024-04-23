@@ -5,7 +5,7 @@
   "homepage": "https://n8n.io",
   "engines": {
     "node": ">=18.10",
-    "pnpm": ">=8.14"
+    "pnpm": ">=9.0.2"
   },
   "packageManager": "pnpm@8.14.3",
   "scripts": {
